@@ -6,10 +6,7 @@ Motivated by creativity and people that I am around, I have a desire to improve 
 
  But I am more drawn to programming as I do like adding functionality to a beautiful form.
 
-Skills: C#/JAVA/ C++ / JS / HTML / CSS/Javascript
-
-- 🔭 I’m currently working on Game dev 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning IOS Development
 - 📫 How to reach me: Perrierpat@icloud.com 
 
 
